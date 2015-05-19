@@ -1,2 +1,2 @@
 # gotest
-golang test project
+this is a hello world project for golang
